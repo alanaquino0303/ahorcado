@@ -28,25 +28,29 @@ Juego **Ahorcado** implementado en C++ para ejecución en consola. El programa p
 
 ### Compilación y ejecución en Linux / macOS
 
+1. Compilar:
+   
    ```bash
-   # Compilar
    g++ -std=c++17 ahorcado.cpp -o ahorcado
    ```
 
+2. Ejecutar:
+   
    ```bash
-   # Ejecutar
    ./ahorcado
    ```
    
 ### Compilación y ejecución en Windows
 
+1. Compilar:
+   
    ```bash
-   # Compilar
    g++ -std=c++17 ahorcado.cpp -o ahorcado.exe
    ```
 
+2. Ejecutar:
+   
    ```bash
-   # Ejecutar
    ahorcado.exe
    ```
 
