@@ -14,8 +14,8 @@ Juego **Ahorcado** implementado en C++ para ejecución en consola. El programa p
 ## Estructura del proyecto
 ```
 / ahorcado
-├── ahorcado.cpp     # Código fuente principal.
-├── README.md        # Documentación principal.
+├─ ahorcado.cpp     # Código fuente principal.
+└─ README.md        # Documentación principal.
 ```
 
 ## Requisitos
@@ -26,7 +26,7 @@ Juego **Ahorcado** implementado en C++ para ejecución en consola. El programa p
 
 ## Ejecución del programa
 
-### Compilación y ejecución en Linux / macOS
+### Compilación y ejecución en Linux o macOS
 
 1. Compilar:
    
